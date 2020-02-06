@@ -323,7 +323,8 @@ body {
 .container {
   margin: 4rem 30rem;
   background-color: #c7cdfa;
-  border: 3px solid #110527; }
+  border: 3px solid #110527;
+  min-width: fit-content; }
 
 .heading {
   text-align: center; }
